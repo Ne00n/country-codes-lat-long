@@ -1017,6 +1017,14 @@
       "longitude" : 6.1667
     },
 {
+      "country" : "Saint Martin (French part)",
+      "alpha2" : "MF",
+      "alpha3" : "MAF",
+      "numeric" : 663,
+      "latitude" : 18.07,
+      "longitude" : -63.06
+    },  
+{
       "country" : "Macao",
       "alpha2" : "MO",
       "alpha3" : "MAC",
