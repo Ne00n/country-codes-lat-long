@@ -121,6 +121,14 @@
       "longitude" : 47.5
     },
 {
+      "country" : "Bonaire, Sint Eustatius and Saba",
+      "alpha2" : "BQ",
+      "alpha3" : "BES",
+      "numeric" : 535,
+      "latitude" : 12.18,
+      "longitude" : -68.23
+    },   
+{
       "country" : "Bahamas",
       "alpha2" : "BS",
       "alpha3" : "BHS",
