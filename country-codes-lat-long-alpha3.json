@@ -1657,6 +1657,14 @@
       "longitude" : 81
     },
 {
+      "country" : "South Sudan",
+      "alpha2" : "SS",
+      "alpha3" : "SSD",
+      "numeric" : -1,
+      "latitude" : 4.85,
+      "longitude" : 31.57
+    },
+{
       "country" : "Sudan",
       "alpha2" : "SD",
       "alpha3" : "SDN",
