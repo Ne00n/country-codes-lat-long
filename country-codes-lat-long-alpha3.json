@@ -1,6 +1,14 @@
 {
   "ref_country_codes" : [
 {
+      "country" : "Åland Islands",
+      "alpha2" : "AX",
+      "alpha3" : "ALA",
+      "numeric" : 248,
+      "latitude" : 60.11,
+      "longitude" : 19.9
+    },
+    {
       "country" : "Albania",
       "alpha2" : "AL",
       "alpha3" : "ALB",
