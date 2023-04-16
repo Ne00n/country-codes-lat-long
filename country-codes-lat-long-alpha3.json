@@ -889,6 +889,14 @@
       "longitude" : 36
     },
 {
+      "country" : "Kosovo",
+      "alpha2" : "XK",
+      "alpha3" : "XKX",
+      "numeric" : -1,
+      "latitude" : 42.58,
+      "longitude" : 21
+    },  
+{
       "country" : "Kazakhstan",
       "alpha2" : "KZ",
       "alpha3" : "KAZ",
